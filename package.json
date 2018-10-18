@@ -1,0 +1,28 @@
+{
+  "name": "ca-todo-ts-eggdice",
+  "version": "0.1.0",
+  "description": "Yet an other todo app :D",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/green-fox-academy/ca-todo-ts-EggDice.git"
+  },
+  "keywords": [
+    "to",
+    "do"
+  ],
+  "author": "Tamas Kokeny <tamas.kokeny@greenfoxacademy.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/green-fox-academy/ca-todo-ts-EggDice/issues"
+  },
+  "homepage": "https://github.com/green-fox-academy/ca-todo-ts-EggDice#readme",
+  "dependencies": {
+    "typescript": "^3.1.3"
+  }
+}
